@@ -1,0 +1,5 @@
+{
+    "nome_tabela": "Clientes",
+    "nome_colunas": ["ID", "Nome", "Email", "Telefone"],
+    "comentario": ""
+}
